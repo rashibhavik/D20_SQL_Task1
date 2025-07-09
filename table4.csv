@@ -1,0 +1,6 @@
+"order_id","customer_name","product_id","quantity","total_amount","order_date"
+1,"Ravi Kumar",1,2,"120000.00","2024-06-10"
+2,"Meera Singh",2,1,"25000.00","2024-06-12"
+3,"Tarun Jain",3,3,"15000.00","2024-06-15"
+4,"Neha Saini",4,5,"1500.00","2024-06-18"
+5,"Alok Reddy",5,10,"500.00","2024-06-20"
